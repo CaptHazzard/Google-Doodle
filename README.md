@@ -8,4 +8,5 @@ Engine Google Doodle
 ## Resources
 * [Coffee icon from Icon Monstr](https://iconmonstr.com/weather-91-svg/)
 
-* [Google Font]()
+* [Google Font](https://fonts.google.com/specimen/Odibee+Sans)
+link href="https://fonts.googleapis.com/css?family=Odibee+Sans&display=swap" rel="stylesheet" 
