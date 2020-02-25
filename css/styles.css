@@ -12,18 +12,43 @@
 /* External styling from: https://codepen.io/manikoth/pen/NNNBYe.css
  */
 /* Doodle Stage */
+
+@import url('https://fonts.googleapis.com/css?family=Odibee+Sans&display=swap');
+
 #stage {
   background: #ccc;
-  height: 600px;
-  width: 600px;
+  height: 400px;
+  width: 800px;
 }
 
-.G  {
-
+.block  {
+display: flex;
+justify-content: center;
 }
 
-.L  {
-  margin: -10em;
+.heads  {
+display: flex;
 }
+
+.belts  {
+display: flex;
+}
+
+.cam1 {
+display: flex;
+}
+
+.cam2 {
+display: flex;
+}
+
+.balancer {
+display: flex;
+}
+
+.exhaust {
+display: flex;
+}
+
 
 
