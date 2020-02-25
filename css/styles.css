@@ -27,6 +27,31 @@ max-width: 100%;
 position: absolute;
 }
 
+.head1  {
+  display: flex;
+  position: absolute;
+}
+
+.head2  {
+  display: flex;
+  position: absolute;
+}
+
+.intake {
+  display: flex;
+  position: absolute;
+}
+
+.belts  {
+  display: flex;
+  position: absolute;
+}
+
+.pulleys  {
+  display: flex;
+position: absolute;
+}
+
 .cam1 {
 display: flex;
 position: absolute;
@@ -40,8 +65,17 @@ position: absolute;
 .balancer {
 display: flex;
 position: absolute;
-align-content: center;
 }
+
+.balancer {
+  display: flex;
+  position: absolute;
+  }
+
+  
+
+
+
 
 /* TEMPLATE STYLING */
 
