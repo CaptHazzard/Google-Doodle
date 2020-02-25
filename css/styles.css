@@ -16,7 +16,7 @@
 #stage {
   background: #ccc;
   height: 400px;
-  width: 800px;
+  width: 860px;
   display: flex;
 }
 
@@ -67,16 +67,26 @@ display: flex;
 position: absolute;
 }
 
-.balancer {
+.exhaust  {
   display: flex;
   position: absolute;
-  }
 
-  
+}
 
+.g  {
+  display: flex;
+  position: absolute;
+}
 
+.l  {
+  display: flex;
+  position: absolute;
+}
 
-
+.e  {
+  display: flex;
+  position: absolute;
+}
 /* TEMPLATE STYLING */
 
 /* DO NOT EDIT BELOW THIS LINE */
