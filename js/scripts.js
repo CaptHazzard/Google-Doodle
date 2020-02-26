@@ -67,7 +67,5 @@ gsap.fromTo(".exhaust", {opacity: 0}, {opacity: 1, duration: .75, delay: 3.7, re
 gsap.to (".exhaust", {x:10, delay: 3});
 gsap.to (".exhaust", {y: 280, delay: 3});
 gsap.to (".exhaust", {rotate: 180});
-// gsap.to(".block", { x: 140, y: -100, delay: .1,  });
-
 
 console.log('OK');
