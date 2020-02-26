@@ -20,10 +20,10 @@
 }
 
 #stage .block  {
-display: flex;
-max-height: 100%;
-max-width: 100%;
-position: absolute;
+  display: flex;
+  max-height: 100%;
+  max-width: 100%;
+  position: absolute;
 }
 
 .head1  {
@@ -48,22 +48,22 @@ position: absolute;
 
 .pulleys  {
   display: flex;
-position: absolute;
+  position: absolute;
 }
 
 .cam1 {
-display: flex;
-position: absolute;
+  display: flex;
+  position: absolute;
 }
 
 .cam2 {
-display: flex;
-position: absolute;
+  display: flex;
+  position: absolute;
 }
 
 .balancer {
-display: flex;
-position: absolute;
+  display: flex;
+  position: absolute;
 }
 
 .exhaust  {

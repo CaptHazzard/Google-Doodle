@@ -26,7 +26,6 @@ gsap.to( '.balancer' , {
   ease:Linear.easeNone,
   duration: .5,
   repeat: -1,
-
 });
 
 gsap.fromTo(".g", {y:75, delay: 2.25}, {y: 75, delay: 2.25});
@@ -41,7 +40,6 @@ gsap.to( '.cam1' , {
   ease:Linear.easeNone,
   duration: .5,
   repeat: -1,
-
 });
 
 gsap.fromTo(".l", {y:75, delay: 2.5}, {y: 75, delay: 2.5});
@@ -59,7 +57,6 @@ gsap.to( '.cam2' , {
   ease:Linear.easeNone,
   duration: .5,
   repeat: -1,
-
 });
 
 
