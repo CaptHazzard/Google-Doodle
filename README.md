@@ -6,7 +6,8 @@ Engine Google Doodle
 [Link to figma collage] https://www.figma.com/file/ElscmEfGIqAGPMnlHP7q3A/Google-Doodle?node-id=2%3A3
 
 ## Resources
-* [Coffee icon from Icon Monstr](https://iconmonstr.com/weather-91-svg/)
+* [Smoke icon from Icon Monstr](https://iconmonstr.com/weather-91-svg/)
 
-* [Google Font](https://fonts.google.com/specimen/Odibee+Sans)
-link href="https://fonts.googleapis.com/css?family=Odibee+Sans&display=swap" rel="stylesheet" 
+* [SVGS from Figma](https://www.figma.com/files/recent)
+
+* [Animation librarys from Green Sock](https://greensock.com/gsap/)
